@@ -51,9 +51,9 @@ Perform the following steps to use the NuGet CLI to install the CodeArtifact Cre
 
 1. Unzip the file\.
 
-1. Copy the **AWS\.CodeArtifact\.NuGetCredentialProvider** folder from the **netfx** folder to `%user_profile%/.nuget/plugins/netfx/` on Windows or `~/.nuget/plugins/netfx` on Linux or MacOS\.
+1. Copy the **AWS\.CodeArtifact\.NuGetCredentialProvider** folder from the **netfx** folder to `%userprofile%/.nuget/plugins/netfx/` on Windows or `~/.nuget/plugins/netfx` on Linux or MacOS\.
 
-1. Copy the **AWS\.CodeArtifact\.NuGetCredentialProvider** folder from the **netcore** folder to `%user_profile%/.nuget/plugins/netcore/` on Windows or `~/.nuget/plugins/netcore` on Linux or MacOS\.
+1. Copy the **AWS\.CodeArtifact\.NuGetCredentialProvider** folder from the **netcore** folder to `%userprofile%/.nuget/plugins/netcore/` on Windows or `~/.nuget/plugins/netcore` on Linux or MacOS\.
 
 ------
 
